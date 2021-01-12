@@ -52,6 +52,7 @@
 .bucket_header_name {
 	font-weight: bold;
 	margin: 10px auto;
+	text-transform: capitalize;
 }
 
 .bucket_header_form {
